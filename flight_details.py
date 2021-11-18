@@ -189,5 +189,5 @@ if __name__ == '__main__':
 
 # Copy and paste the below command in the terminal to run the application.
 python3 flight_delay.py
-Click on the Launch Application option from the menu bar.
-Provide the port number and click OK
+# Click on the Launch Application option from the menu bar.
+# Provide the port number and click OK
