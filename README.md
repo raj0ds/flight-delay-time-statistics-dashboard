@@ -24,9 +24,9 @@ NOTE: Year range should be between 2010 and 2020
 Title of the application
 Component to enter input year
 5 Charts conveying the different types of flight delay. Chart section is divided into three segments.
-    Carrier and Weather delay in the first segment
-    National air system and Security delay in the second segment
-    Late aircraft delay in the third segment
+      Carrier and Weather delay in the first segment
+      National air system and Security delay in the second segment
+      Late aircraft delay in the third segment
 
 To do:
 Design layout for the application.
