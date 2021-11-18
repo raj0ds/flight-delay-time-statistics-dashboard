@@ -29,8 +29,8 @@ Component to enter input year
       Late aircraft delay in the third segment
 
 To do:
-Design layout for the application.
+<!-- Design layout for the application.
 Create a callback function. Add callback decorator, define inputs and outputs.
 Review the helper function that performs computation on the provided inputs.
 Create 5 line graphs.
-Run the application.
+Run the application. -->
