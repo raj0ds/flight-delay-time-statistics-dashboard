@@ -7,18 +7,12 @@ Theme
 Analyze flight delays in a dashboard.
 
 Dashboard Components
-
-Monthly average carrier delay by reporting airline for the given year.
-
-Monthly average weather delay by reporting airline for the given year.
-
-Monthly average national air system delay by reporting airline for the given year.
-
-Monthly average security delay by reporting airline for the given year.
-
-Monthly average late aircraft delay by reporting airline for the given year.
-
-NOTE: Year range should be between 2010 and 2020
+* Monthly average carrier delay by reporting airline for the given year.
+* Monthly average weather delay by reporting airline for the given year.
+* Monthly average national air system delay by reporting airline for the given year.
+* Monthly average security delay by reporting airline for the given year.
+* Monthly average late aircraft delay by reporting airline for the given year.
+**NOTE:** Year range should be between 2010 and 2020
 
 
 Title of the application
